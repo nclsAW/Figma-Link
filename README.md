@@ -6,5 +6,5 @@ This is a collection of figma links related to several projects that I might imp
 ### https://www.figma.com/proto/9sf3egPiLXLBDBkl83NSg7?node-id=0-1&mode=design&t=pmfKknbFUL4Ye04H-6
 
 Credit:
-`* Nicolas Anelka Winata`
-`* Nabila Daniasti Darno`
+`Nicolas Anelka Winata`
+`Nabila Daniasti Darno`
