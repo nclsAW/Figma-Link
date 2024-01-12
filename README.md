@@ -7,4 +7,4 @@ This is a collection of figma links related to several projects that I might imp
 
 Credit:
 `Nicolas Anelka Winata`
-`Nabila Daniasti Darno`
+`Nabila Daniasti Darno` https://github.com/daniastinab
